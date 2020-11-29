@@ -5,6 +5,6 @@ A aplicação realiza o registro de produtos. Para registrar é necessário info
 
 Integrantes:
 
-Nome: Cinthia Queiroz   RA:
+Nome: Cinthia Queiroz   RA: 1700693
 Nome: Kathleen Saraiva  RA: 1601110
 
