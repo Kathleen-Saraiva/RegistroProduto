@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRegister" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-29T16:27:35" hostname="cinthia-Inspiron-5566" time="0.281">
+  <properties/>
+  <testcase name="testInvalidProduto" classname="TestRegister" time="0.003"/>
+  <testcase name="testStartInvalido" classname="TestRegister" time="0.0"/>
+  <testcase name="testInvalidNome" classname="TestRegister" time="0.0"/>
+  <testcase name="testEncerraStart" classname="TestRegister" time="0.0"/>
+  <testcase name="testValidaNome" classname="TestRegister" time="0.0"/>
+  <testcase name="testInvalidDesconto" classname="TestRegister" time="0.0"/>
+  <testcase name="testChamaMetodoValidaProduto" classname="TestRegister" time="0.276"/>
+  <testcase name="testValidateStart" classname="TestRegister" time="0.0"/>
+  <testcase name="testValidaDesconto" classname="TestRegister" time="0.0"/>
+  <testcase name="testValidaProdutoSucess" classname="TestRegister" time="0.0"/>
+  <system-out><![CDATA[Nome b invalido
+Nome B invalido
+O valor do seu produto com desconto é 5
+Produto validado com sucessp
+O valor do seu produto com desconto é 5
+O valor do seu produto com desconto é 5
+Produto validado com sucessp
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
